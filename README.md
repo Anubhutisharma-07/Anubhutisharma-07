@@ -95,9 +95,9 @@ I specialize in **Java**, **Spring Boot**, **Spring Security**, **API Developmen
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A033&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Spring+Boot+Developer;Secure+REST+API+Engineer;Building+Production+Ready+APIs;Docker+%E2%80%A2+Jenkins+%E2%80%A2+CI%2FCD;Open+To+Backend+Engineering+Internships)](https://leetcode.com/u/akshitraikakkar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A033&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Spring+Boot+Developer;Secure+REST+API+Engineer;Building+Production+Ready+APIs;Docker+%E2%80%A2+Jenkins+%E2%80%A2+CI%2FCD;Open+To+Backend+Engineering+Internships)](https://leetcode.com/u/Anubhuti2086)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/akshitraikakkar?theme=dark&font=Baloo%20Chettan%202&ext=contest&animation=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&font=Baloo%20Chettan%202&ext=contest&animation=true)
 
 ---
 
