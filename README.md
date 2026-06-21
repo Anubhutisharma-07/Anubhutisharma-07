@@ -33,6 +33,7 @@ I specialize in **Java**, **Spring Boot**, **Spring Security**, **API Developmen
 
 - 🥇 **National-Level Hackathon Winner** — IIIT Delhi, NIT Durgapur
 - 🚀 **Hackathon Finalist** — ByteVerse (Open Innovation)
+- 🎓 Campus Ambassador at IIT Roorkee
 - 💡 **150+ DSA Problems Solved** on LeetCode
 - ⚡ Built and deployed production-ready backend systems with automated CI/CD pipelines
 
