@@ -1,268 +1,226 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,50:164e63,100:0891b2&text=ANUBHUTI%20SHARMA&fontColor=ffffff&fontSize=48&fontAlignY=45&desc=Java%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=65&descSize=15" width="100%" />
-
-<br/>
-
-<a href="https://github.com/Anubhutisharma-07">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/anubhuti-sharma-93571931a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://leetcode.com/u/Anubhuti2086/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-**Building systems. Solving problems. Contributing to open source.**
-
-</div>
-
----
-
-## `01` — About Me
-
-```java
-public class Developer {
-
-    String name = "Anubhuti Sharma";
-    String role = "Java Backend Developer";
-    String education = "B.Tech CSE";
-
-    String[] interests = {
-        "Backend Engineering",
-        "Distributed Systems",
-        "Open Source",
-        "Problem Solving",
-        "System Design"
-    };
-
-    String currentlyLearning =
-        "Microservices & System Design";
-
-    String mindset =
-        "Build. Break. Learn. Improve.";
-}
-```
-
-I'm a Computer Science undergraduate focused on **Java backend development** and building practical software systems.
-
-I enjoy working with APIs, databases, backend architecture, and algorithms. I also actively contribute to open-source projects and participate in hackathons.
-
-- ☕ Building with Java and Spring Boot.
-- ⚙️ Exploring microservices and distributed systems.
-- 🌱 Improving my understanding of system design.
-- 🌍 Contributing to open-source projects.
-- 🧩 Practising Data Structures and Algorithms.
-
----
-
-## `02` — Tech Stack
+<!-- PROFILE README -->
 
 <div align="center">
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Anubhuti%20Sharma&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Backend%20Engineering&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Anubhuti Sharma banner" />
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,python&theme=dark" />
+<a href="https://github.com/Anubhutisharma-07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=00D1B2&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+Spring+Boot+Engineer+%E2%98%95;Building+Secure+REST+APIs+%F0%9F%94%90;Docker+%E2%80%A2+Jenkins+%E2%80%A2+CI%2FCD+%F0%9F%90%B3;Open+to+Backend+Engineering+Internships+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-**Backend & Frameworks**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&theme=dark" />
+<img src="https://komarev.com/ghpvc/?username=Anubhutisharma-07&label=Profile%20Views&color=00d1b2&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-00d1b2?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to internships" />
 
-**Frontend**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,idea,vscode&theme=dark" />
+<a href="https://linkedin.com/in/anubhuti-sharma-93571931a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Anubhuti2086"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:anubhuti07sharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
----
+<br/>
 
-## `03` — Selected Projects
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **B.Tech Computer Science student** who builds **scalable backend systems**, **secure REST APIs** and **production-ready applications** with **Java and Spring Boot**.
+
+- 🔭 Building JWT-secured REST APIs with layered architecture
+- 🌱 Deepening **Spring Security**, **Microservices** and **System Design**
+- 🐳 Exploring **Docker, Jenkins & CI/CD** pipelines
+- 🧠 Solving **DSA problems** in Java
+- 🤝 Interested in **open source** and collaborative development
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/150%2B-LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="150+ LeetCode problems" />
+<br/><br/>
+<img src="https://img.shields.io/badge/3-Hackathon%20Wins%20%26%20Finals-00d1b2?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathons" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Campus%20Ambassador-IIT%20Roorkee-2c5364?style=for-the-badge" alt="Campus Ambassador" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,c,js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=maven,postman,idea,vscode" /> |
+
+</div>
+
+<div align="center">
+
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![SLF4J](https://img.shields.io/badge/Logging-SLF4J-555555?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-00d1b2?style=flat-square)
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 💸 SettleUp
+**Smart group expense settlement**
 
-**Smart Group Expense Settlement System**
+Simplifies shared expenses and computes optimized transactions to settle group debts.
 
-A group expense management platform that calculates optimized settlements to minimize the number of transactions between members.
+- Graph/greedy debt-settlement algorithm
+- REST APIs + Spring JDBC + PostgreSQL
+- Dockerized, with a Jenkins CI/CD pipeline
 
-**Key engineering work**
-- Graph-based debt settlement algorithm.
-- REST API development.
-- Authentication and authorization.
-- Database design and integration.
-- Containerization and CI/CD.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Stack**
-
-`Java 21` `Spring Boot` `Spring JDBC` `PostgreSQL` `React` `Docker` `Jenkins`
-
-<br/>
-
-<a href="https://github.com/Anubhutisharma-07/SettleUp">
-  <img src="https://img.shields.io/badge/Explore%20Project-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anubhutisharma-07/SettleUp)
 
 </td>
 <td width="50%" valign="top">
 
+### 📝 QuizFlow
+**Full-stack online quiz platform**
+
+Authentication, quiz management, timed attempts and result tracking.
+
+- JWT auth with role-based authorization
+- Quiz timers and automatic result evaluation
+- API docs via Swagger/OpenAPI
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏥 MedTrack
+**Healthcare management project**
 
-**Healthcare Management Platform**
+Healthcare workflows built collaboratively.
 
-An open-source healthcare application where I contributed to backend features, application functionality, and code quality.
+- Backend functionality and API integration
+- Team development, open-source contributions and issue resolution
 
-**Key contributions**
-- Backend API development.
-- Equipment inventory and search.
-- Filtering and pagination.
-- Analytics and CSV functionality.
-- Maintenance scheduling and SLA features.
-- Testing, security, and refactoring.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Contribution**
+</td>
+<td width="50%" valign="top" align="center">
 
-`89 reported merged PRs`
-
-<br/>
-
-<a href="https://github.com/kRamu81/MedTrack_Application">
-  <img src="https://img.shields.io/badge/Explore%20Project-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Anubhutisharma-07?tab=repositories">
+  <img src="https://img.shields.io/badge/More%20Projects%20%E2%86%92-00d1b2?style=for-the-badge" alt="More projects" />
 </a>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## `04` — Open Source
-
-Open source has helped me work with existing codebases, understand collaborative development, and contribute to real-world software.
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-16a34a?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/ECSOC-Top%2020-0e7490?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YuvaHub-11th%20Contributor-7c3aed?style=for-the-badge"/>
+| 🥇 | 🏆 | 🎯 | 🚀 | 🌐 |
+|:--:|:--:|:--:|:--:|:--:|
+| **1st Prize** | **Winner** | **Finalist** | **Selected** | **Campus Ambassador** |
+| IIIT Delhi<br/>TechFrontier | NIT Durgapur<br/>Hackastra | Byteverse 1.0<br/>Open Innovation | Internal SIH | IIT Roorkee<br/>Cognizance 2026 |
 
 </div>
 
-### Contribution breakdown
+<br/>
 
-| Repository | Merged PRs |
-|:---|---:|
-| MedTrack | 89 |
-| CampusConnect | 30 |
-| paySphere | 26 |
-| eco-buddy-ai | 19 |
-| semantic-plagiarism-detector | 16 |
-| OpenPrep-AI | 15 |
-| AI-Resume-Analyzer | 13 |
-| YuvaHub | 12 |
-| Pollution-Control-Hub | 11 |
-| devlink | 10 |
-| MailGenie | 10 |
-| CommitIQ | 6 |
-| cradle | 5 |
-| hercycle-ai | 5 |
-| Incredible-India-Explorer | 5 |
-
-<details>
-<summary><b>More about my open-source journey</b></summary>
-
-- Top 20 position on the ECSOC leaderboard.
-- YuvaHub contributor recognition for 12 merged PRs.
-- 11th position in the YuvaHub project contributor list.
-- Contributions across backend, frontend, feature development, bug fixes, and testing.
-- Additional repositories include Memori and MeetOnMemory.
-
-</details>
-
----
-
-## `05` — Problem Solving
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Anubhuti2086/">
-<img src="https://img.shields.io/badge/LeetCode-200%20Days%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anubhutisharma-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhutisharma-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<br/><br/>
+<img width="95%" src="https://streak-stats.demolab.com?user=Anubhutisharma-07&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<img src="https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
-
-**200+ problems solved historically | Java & C++**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhutisharma-07&bg_color=0d1117&color=ffffff&line=00d1b2&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
----
+<br/>
 
-## `06` — Achievements
+## 🧩 Problem Solving
 
 <div align="center">
 
-| Achievement | Recognition |
-|:---|:---|
-| IIIT Delhi TechFrontier | 🥇 First Prize |
-| NIT Durgapur Hackastra | 🏆 Winner |
-| Byteverse 1.0 | ⭐ Finalist |
-| Smart India Hackathon | 🚀 Internal Selection |
-| IIT Roorkee Cognizance 2026 | 🎓 Campus Ambassador |
-| TCS | 🤝 Campus Ambassador |
+<img src="https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&font=Baloo%20Chettan%202&ext=contest&animation=true" alt="LeetCode stats" />
+
+<br/>
+
+![Arrays](https://img.shields.io/badge/Arrays%20%26%20Strings-2c5364?style=flat-square)
+![Linked Lists](https://img.shields.io/badge/Linked%20Lists-2c5364?style=flat-square)
+![Stacks](https://img.shields.io/badge/Stacks%20%26%20Queues-2c5364?style=flat-square)
+![Trees](https://img.shields.io/badge/Trees%20%26%20Graphs-2c5364?style=flat-square)
+![Recursion](https://img.shields.io/badge/Recursion%20%26%20Backtracking-2c5364?style=flat-square)
+![DP](https://img.shields.io/badge/Dynamic%20Programming-2c5364?style=flat-square)
+![Greedy](https://img.shields.io/badge/Greedy-2c5364?style=flat-square)
 
 </div>
 
----
+<br/>
 
-## `07` — GitHub Analytics
+## 🌱 Currently Exploring
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anubhutisharma-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhutisharma-07&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Anubhutisharma-07&theme=tokyonight&hide_border=true" />
+![Microservices](https://img.shields.io/badge/Microservices-0f2027?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-203a43?style=for-the-badge)
+![Spring Internals](https://img.shields.io/badge/Spring%20Boot%20Internals-2c5364?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud%20Deployment-0f2027?style=for-the-badge)
 
 </div>
 
----
-
-## `08` — Let's Connect
+<br/>
 
 <div align="center">
 
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/anubhuti-sharma-93571931a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Anubhutisharma-07">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
 
-<br/><br/>
+<br/>
 
-### *"Consistency compounds. Code is just the beginning."*
+**Let's build something together. Reach out on [LinkedIn](https://linkedin.com/in/anubhuti-sharma-93571931a/) or [email](mailto:anubhuti07sharma@gmail.com).**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
