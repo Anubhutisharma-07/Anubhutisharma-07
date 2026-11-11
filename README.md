@@ -1,129 +1,329 @@
-
-## 🚀 Backend Developer | Java Developer | Spring Boot Developer
-
-I'm **Anubhuti Sharma**, a **Computer Science Engineering Student**, **Backend Developer**, and **Java Developer** focused on building **scalable backend systems**, **secure REST APIs**, and **production-ready software applications**.
-
-I specialize in **Java**, **Spring Boot**, **Spring Security**, **API Development**, **Database Engineering**, and **DevOps Practices**, with hands-on experience building secure and scalable applications using modern software engineering practices.
-
-- 🔭 Building production-ready REST APIs with JWT authentication and layered architecture
-- 🌱 Currently deepening knowledge in **Advanced Spring Security & Backend Architecture**
-- 🐳 Exploring **Docker, Jenkins & CI/CD Pipelines**
-- 🧠 Actively solving **Data Structures & Algorithms**
-- 🚀 Open to **Backend Engineering Internships**
-
----
-
-### 🎯 Primary Focus Areas
-
-- Backend Engineering
-- Java Development
-- Spring Boot Applications
-- REST API Development
-- Authentication & Authorization (JWT)
-- Spring Security
-- CI/CD Pipelines (Jenkins, GitHub Actions)
-- Docker & Containerization
-- Database Engineering (MySQL, PostgreSQL)
-- Logging & Observability (SLF4J)
-- Clean Architecture
-- Data Structures & Algorithms
-
----
-
-### 🏆 Achievements
-
-- 🥇 **National-Level Hackathon Winner** — IIIT Delhi, NIT Durgapur
-- 🚀 **Hackathon Finalist** — ByteVerse (Open Innovation)
-- 🎓 Campus Ambassador at IIT Roorkee
-- 💡 **150+ DSA Problems Solved** on LeetCode
-- ⚡ Built and deployed production-ready backend systems with automated CI/CD pipelines
-
----
-
-### 💡 What I Build
-
-- Scalable Backend Systems
-- Secure Authentication & Authorization Systems
-- RESTful APIs
-- Containerized & Deployable Applications
-- CI/CD Automated Pipelines
-- Observability-Ready Backend Services
-- Performance-Optimized Database Layers
-
----
-
-### 🔍 Keywords
-
-`Java Developer` • `Backend Developer` • `Software Engineer` • `Spring Boot Developer` • `REST API Developer` • `Spring Security` • `JWT` • `Docker` • `Jenkins` • `GitHub Actions` • `CI/CD` • `MySQL` • `PostgreSQL` • `Hibernate` • `JPA` • `Backend Development` • `API Development` • `Clean Architecture` • `Logging` • `SLF4J` • `Data Structures` • `Algorithms` • `Problem Solving`
-
----
+<!-- PROFILE README · Anubhutisharma-07 · palette: rose #fda4af · peach #fdba74 · lavender #c4b5fd · ink #1f1b24 -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,50:fdba74,100:c4b5fd&height=250&section=header&text=Hi%2C%20I'm%20Anubhuti&fontSize=58&fontColor=3b2f3f&fontAlignY=36&desc=Java%20Backend%20Developer%20%C2%B7%20Open-Source%20Contributor&descSize=20&descColor=3b2f3f&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Anubhuti" />
+
+<a href="https://github.com/Anubhutisharma-07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FDA4AF&center=true&vCenter=true&width=700&lines=Building+calm%2C+reliable+backends+with+Spring+Boot;Backend+Intern+%40+Enginow;ECSOC+2026+Top+20+Contributor;272+merged+PRs+across+15+repositories;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/anubhuti-sharma-93571931a/"><img src="https://img.shields.io/badge/LinkedIn-fda4af?style=for-the-badge&logo=linkedin&logoColor=3b2f3f" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://img.shields.io/badge/LeetCode-fdba74?style=for-the-badge&logo=leetcode&logoColor=3b2f3f" alt="LeetCode" /></a>
+<a href="https://github.com/Anubhutisharma-07?tab=repositories"><img src="https://img.shields.io/badge/Repositories-c4b5fd?style=for-the-badge&logo=github&logoColor=3b2f3f" alt="Repositories" /></a>
+
+<br/><br/>
+
+<sub>
+<a href="#-about">About</a> &nbsp;·&nbsp;
+<a href="#-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#-experience">Experience</a> &nbsp;·&nbsp;
+<a href="#-featured-project">Featured</a> &nbsp;·&nbsp;
+<a href="#-open-source">Open source</a> &nbsp;·&nbsp;
+<a href="#-leetcode">LeetCode</a> &nbsp;·&nbsp;
+<a href="#-wins">Wins</a> &nbsp;·&nbsp;
+<a href="#-activity">Activity</a>
+</sub>
+
 </div>
 
----
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhutisharma-07&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
----
+## 🌷 About
 
-# 💻 Tech Stack & Skills
+I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engineering, practical applications and open source. I enjoy the whole journey, from designing APIs and database schemas to building the interface on top and wiring it all together.
 
-## Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+#### 🎯 Right now
+- Java backend development
+- Spring Boot and REST APIs
+- Database management and system design
+- Microservices architecture
 
-## Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-## DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+#### 🌱 Also
+- DSA in Java
+- Open-source contributions
+- Exploring AI/ML and AI-powered apps
 
-## Core Concepts
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A0A0A?style=for-the-badge)
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A033&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Spring+Boot+Developer;Secure+REST+API+Engineer;Building+Production+Ready+APIs;Docker+%E2%80%A2+Jenkins+%E2%80%A2+CI%2FCD;Open+To+Backend+Engineering+Internships)](https://leetcode.com/u/Anubhuti2086)
+| 🏅 ECSOC 2026 | 🔀 Merged PRs* | 📦 Repositories* | 🔥 LeetCode |
+|:--:|:--:|:--:|:--:|
+| **Top 20** contributor | **272** | **15** external | **200 Days** badge |
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&font=Baloo%20Chettan%202&ext=contest&animation=true)
+<sub>*Search-based figures: merged PRs authored by me in the repositories listed under <a href="#-open-source">Open source</a>. Not an audited all-time count.</sub>
 
----
+</div>
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhuti-sharma-93571931a/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Anubhutisharma-07)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anubhuti07sharma@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
----
+## 🧰 Stack
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+My working toolkit across projects and internship work.
 
----
+<div align="center">
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Anubhutisharma-07&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<table>
+<tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" alt="Languages" /></td></tr>
+<tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Backend" /></td></tr>
+<tr><td align="right"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend" /></td></tr>
+<tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /></td></tr>
+<tr><td align="right"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,idea,eclipse,vscode" alt="Tools" /></td></tr>
+</table>
 
----
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-fda4af?style=flat-square&logo=spring&logoColor=3b2f3f)
+![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-fdba74?style=flat-square&logo=spring&logoColor=3b2f3f)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-c4b5fd?style=flat-square&logo=springsecurity&logoColor=3b2f3f)
+![JWT](https://img.shields.io/badge/JWT-fda4af?style=flat-square&logo=jsonwebtokens&logoColor=3b2f3f)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-fdba74?style=flat-square&logo=docker&logoColor=3b2f3f)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-c4b5fd?style=flat-square&logo=swagger&logoColor=3b2f3f)
 
-[![](https://visitcount.itsvg.in/api?id=Anubhutisharma-07&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
----
+<details>
+<summary><b>Engineering concepts</b></summary>
+<br/>
 
-*Building scalable backend systems, production-ready APIs, and software engineered for real-world impact.*
+Object-Oriented Programming · Data Structures & Algorithms · Database Management Systems · RESTful API Design · Authentication & Authorization · Backend Architecture · CI/CD · Unit Testing · API Documentation · Version Control · Graph Algorithms · Greedy Algorithms
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="150" align="center"><h3>Enginow</h3></td>
+<td>
+
+**Backend Intern**<br/>
+Working in backend development and application engineering.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+
+## ✨ Featured project
+
+<sub>Independently developed</sub>
+
+<table>
+<tr>
+<td>
+
+### 💸 [SettleUp](https://github.com/Anubhutisharma-07/SettleUp)
+**Smart group expense settlement**
+
+Tracks shared expenses, calculates individual balances and **minimizes the number of transactions** needed to settle group debts.
+
+- Group expense management, tracking and balance calculation
+- **Graph-based debt settlement** with **greedy optimization**
+- REST API architecture with PostgreSQL integration
+- Docker-based deployment with a **Jenkins CI/CD pipeline**
+
+![Java](https://img.shields.io/badge/Java%2021-fda4af?style=flat-square&logo=openjdk&logoColor=3b2f3f)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%204-fdba74?style=flat-square&logo=springboot&logoColor=3b2f3f)
+![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-c4b5fd?style=flat-square&logo=spring&logoColor=3b2f3f)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-fda4af?style=flat-square&logo=postgresql&logoColor=3b2f3f)
+![React](https://img.shields.io/badge/React-fdba74?style=flat-square&logo=react&logoColor=3b2f3f)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-c4b5fd?style=flat-square&logo=tailwindcss&logoColor=3b2f3f)
+![Docker](https://img.shields.io/badge/Docker%20%2B%20Compose-fda4af?style=flat-square&logo=docker&logoColor=3b2f3f)
+![Jenkins](https://img.shields.io/badge/Jenkins-fdba74?style=flat-square&logo=jenkins&logoColor=3b2f3f)
+
+<div align="center">
+<a href="https://github.com/Anubhutisharma-07/SettleUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anubhutisharma-07&repo=SettleUp&bg_color=1f1b24&title_color=fda4af&text_color=e7dfe9&icon_color=fdba74&border_color=3a3345" alt="SettleUp repository card" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+
+## 🌍 Open source
+
+<sub>Contributions to other people's repositories, not projects I built on my own.</sub>
+
+### 🏥 MedTrack · Healthcare Equipment Management Platform
+
+**Open-source contributor · 89 merged PRs** &nbsp;·&nbsp; [Repository](https://github.com/kRamu81/MedTrack_Application) &nbsp;·&nbsp; [My merged PRs](https://github.com/kRamu81/MedTrack_Application/pulls?q=is%3Apr+is%3Amerged+author%3AAnubhutisharma-07)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- Backend REST API development
+- Equipment inventory management
+- Filtering, searching and pagination
+- Analytics, reporting and CSV export
+- Equipment lifecycle management
+
+</td>
+<td width="50%" valign="top">
+
+- Preventive maintenance scheduling and SLA monitoring
+- Security and permission improvements
+- Service and component testing
+- Frontend bug fixes and improvements
+- Refactoring for maintainability
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Notable pull requests</b></summary>
+<br/>
+
+| PR | Contribution |
+|:--|:--|
+| [#1591](https://github.com/kRamu81/MedTrack_Application/pull/1591) | Comprehensive backend hardening |
+| [#1518](https://github.com/kRamu81/MedTrack_Application/pull/1518) | Security service test coverage |
+| [#1215](https://github.com/kRamu81/MedTrack_Application/pull/1215) | Pharmaceutical Cold-Chain & Med-Supply Chain |
+| [#1015](https://github.com/kRamu81/MedTrack_Application/pull/1015) | Maintenance task lifecycle and scheduling |
+| [#983](https://github.com/kRamu81/MedTrack_Application/pull/983) | Preventive maintenance SLA optimization |
+| [#764](https://github.com/kRamu81/MedTrack_Application/pull/764) | Equipment Lifecycle & Predictive Failure Analytics |
+| [#550](https://github.com/kRamu81/MedTrack_Application/pull/550) | Multi-filter equipment search API |
+
+</details>
+
+<br/>
+
+### 🏅 ECSOC 2026 · Elite Coders Summer of Code
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ECSOC%202026-Top%2020%20Contributor-fda4af?style=for-the-badge&logoColor=3b2f3f&labelColor=1f1b24" alt="ECSOC 2026 Top 20 Contributor" />
+<img src="https://img.shields.io/badge/YuvaHub-12%20Merged%20PRs-fdba74?style=for-the-badge&labelColor=1f1b24" alt="YuvaHub 12 merged PRs" />
+<img src="https://img.shields.io/badge/YuvaHub%20Top%20Contributors-11th%20Listed-c4b5fd?style=for-the-badge&labelColor=1f1b24" alt="Listed 11th in YuvaHub top contributors" />
+
+</div>
+
+- Contributed across multiple repositories on both backend and frontend
+- Feature development, bug fixes, UI improvements and code-quality work
+- Collaborated with maintainers through issues and pull requests
+
+<br/>
+
+### 📈 Most contributed repositories
+
+<div align="center">
+
+| Repository | Merged PRs* |
+|:--|--:|
+| [MedTrack](https://github.com/kRamu81/MedTrack_Application) | **89** |
+| [CampusConnect](https://github.com/krushit1307/CampusConnect) | **30** |
+| [paySphere](https://github.com/Dev1822/paySphere) | **26** |
+| [eco-buddy-ai](https://github.com/neeru24/eco-buddy-ai) | **19** |
+| [semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector) | **16** |
+| [OpenPrep-AI](https://github.com/nishit546/OpenPrep-AI) | **15** |
+
+</div>
+
+<details>
+<summary><b>See all 15 repositories</b></summary>
+<br/>
+
+<div align="center">
+
+| Repository | Merged PRs* |
+|:--|--:|
+| [AI-Resume-Analyzer](https://github.com/Muskankr/AI-Resume-Analyzer) | 13 |
+| [YuvaHub](https://github.com/uditt490-pixel/YuvaHub) | 12 |
+| [Pollution-Control-Hub](https://github.com/Aditya8369/Pollution-Control-Hub) | 11 |
+| [devlink](https://github.com/nensii21/devlink) | 10 |
+| [MailGenie](https://github.com/Nicode2707/MailGenie) | 10 |
+| [CommitIQ](https://github.com/eshaanag/CommitIQ) | 6 |
+| [cradle](https://github.com/Facelessism/cradle) | 5 |
+| [hercycle-ai](https://github.com/khushi897920-lang/hercycle-ai) | 5 |
+| [Incredible-India-Explorer](https://github.com/Eshajha19/Incredible-India-Explorer) | 5 |
+
+</div>
+
+</details>
+
+<sub>*Search-based counts of merged PRs authored by `Anubhutisharma-07`. Total: **272 merged PRs across 15 external repositories**. Not an audited all-time contribution count.</sub>
+
+**Also contributed to:** [Memori](https://github.com/Anubhutisharma-07/Memori) · [MeetOnMemory](https://github.com/Anubhutisharma-07/MeetOnMemory)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+
+## 🧩 LeetCode
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-200%20Days%20Badge-fdba74?style=for-the-badge&logo=leetcode&logoColor=3b2f3f&labelColor=1f1b24" alt="200 Days LeetCode Badge" />
+
+<a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&font=Baloo%20Chettan%202&ext=contest&animation=true" alt="LeetCode stats" /></a>
+
+<a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&ext=heatmap" alt="LeetCode activity calendar" /></a>
+
+</div>
+
+Steady problem-solving practice, with **Java** as my main DSA language (earlier C++). The cards above are live, so solved counts, difficulty split and contest data come straight from LeetCode.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+
+## 🏆 Wins
+
+<div align="center">
+
+| 🥇 | 🏆 | 🎯 | 🚀 |
+|:--:|:--:|:--:|:--:|
+| **First Prize** | **Winner** | **Finalist** | **Selected** |
+| IIIT Delhi<br/>TechFrontier Hackathon | NIT Durgapur<br/>Hackastra | Byteverse 1.0 | Smart India Hackathon<br/>(internal round) |
+
+| 🌐 | 🎓 | 🏅 |
+|:--:|:--:|:--:|
+| **Campus Ambassador** | **Campus Ambassador** | **Top 20 Contributor** |
+| IIT Roorkee<br/>Cognizance 2026 | TCS | ECSOC 2026 |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+
+## 📊 Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anubhutisharma-07&theme=dracula" width="100%" alt="GitHub profile summary" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anubhutisharma-07&show_icons=true&include_all_commits=true&bg_color=1f1b24&title_color=fda4af&text_color=e7dfe9&icon_color=fdba74&border_color=3a3345&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhutisharma-07&layout=compact&bg_color=1f1b24&title_color=fda4af&text_color=e7dfe9&border_color=3a3345" alt="Most used languages" />
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Anubhutisharma-07&background=1F1B24&ring=FDA4AF&fire=FDBA74&currStreakNum=E7DFE9&sideNums=E7DFE9&currStreakLabel=FDA4AF&sideLabels=C4B5FD&dates=A39BAE&border=3A3345" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhutisharma-07&bg_color=1f1b24&color=fda4af&line=fdba74&point=ffffff&area=true&area_color=fda4af&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💌 Let's connect
+
+<a href="https://github.com/Anubhutisharma-07"><img src="https://img.shields.io/badge/GitHub-c4b5fd?style=for-the-badge&logo=github&logoColor=3b2f3f" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/anubhuti-sharma-93571931a/"><img src="https://img.shields.io/badge/LinkedIn-fda4af?style=for-the-badge&logo=linkedin&logoColor=3b2f3f" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://img.shields.io/badge/LeetCode-fdba74?style=for-the-badge&logo=leetcode&logoColor=3b2f3f" alt="LeetCode" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:fdba74,100:fda4af&height=120&section=footer" width="100%" alt="" />
+
+</div>
