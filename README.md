@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Hi, I'm Anubhuti. Java backend developer and open-source contributor." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,50:fdba74,100:c4b5fd&height=260&section=header&text=Hi%2C%20I'm%20Anubhuti&fontSize=58&fontColor=3b2f3f&fontAlignY=36&desc=Java%20Backend%20Developer%20%C2%B7%20Open-Source%20Contributor&descSize=20&descColor=3b2f3f&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Anubhuti" />
 
 <a href="https://github.com/Anubhutisharma-07">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FDA4AF&center=true&vCenter=true&width=700&lines=Building+calm%2C+reliable+backends+with+Spring+Boot;Backend+Intern+%40+Enginow;ECSOC+2026+Top+20+Contributor;272+merged+PRs+across+15+repositories;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="assets/section-about.svg" width="100%" alt="About" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=About&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="About" />
 
 I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engineering, practical applications and open source. I enjoy the whole journey, from designing APIs and database schemas to building the interface on top and wiring it all together.
 
@@ -44,7 +44,10 @@ I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engin
 
 <div align="center">
 
-<img src="assets/stats.svg" width="100%" alt="ECSOC 2026 Top 20 contributor. 272 merged PRs. 15 external repositories. 200 Days LeetCode badge." />
+<img src="https://img.shields.io/badge/ECSOC%202026-Top%2020%20Contributor-fda4af?style=for-the-badge&labelColor=1f1b24" alt="ECSOC 2026 Top 20 Contributor" />
+<img src="https://img.shields.io/badge/Merged%20PRs*-272-fdba74?style=for-the-badge&labelColor=1f1b24" alt="272 merged PRs" />
+<img src="https://img.shields.io/badge/Repositories*-15%20external-c4b5fd?style=for-the-badge&labelColor=1f1b24" alt="15 external repositories" />
+<img src="https://img.shields.io/badge/LeetCode-200%20Days%20Badge-fda4af?style=for-the-badge&labelColor=1f1b24" alt="200 Days LeetCode badge" />
 
 <sub>*Search-based figures: merged PRs authored by me in the repositories listed under Open source. Not an audited all-time count.</sub>
 
@@ -52,7 +55,7 @@ I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engin
 
 <br/>
 
-<img src="assets/section-stack.svg" width="100%" alt="Stack" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Stack&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Stack" />
 
 My working toolkit across projects and internship work.
 
@@ -85,7 +88,7 @@ Object-Oriented Programming · Data Structures & Algorithms · Database Manageme
 
 <br/>
 
-<img src="assets/section-experience.svg" width="100%" alt="Experience" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Experience&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Experience" />
 
 <table>
 <tr>
@@ -101,7 +104,7 @@ Working in backend development and application engineering.
 
 <br/>
 
-<img src="assets/section-featured.svg" width="100%" alt="Featured project" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Featured%20project&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Featured project" />
 
 <sub>Independently developed</sub>
 
@@ -138,7 +141,7 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 <br/>
 
-<img src="assets/section-opensource.svg" width="100%" alt="Open source" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Open%20source&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Open source" />
 
 <sub>Contributions to other people's repositories, not projects I built on my own.</sub>
 
@@ -191,7 +194,7 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ECSOC%202026-Top%2020%20Contributor-fda4af?style=for-the-badge&logoColor=3b2f3f&labelColor=1f1b24" alt="ECSOC 2026 Top 20 Contributor" />
+<img src="https://img.shields.io/badge/ECSOC%202026-Top%2020%20Contributor-fda4af?style=for-the-badge&labelColor=1f1b24" alt="ECSOC 2026 Top 20 Contributor" />
 <img src="https://img.shields.io/badge/YuvaHub-12%20Merged%20PRs-fdba74?style=for-the-badge&labelColor=1f1b24" alt="YuvaHub 12 merged PRs" />
 <img src="https://img.shields.io/badge/YuvaHub%20Top%20Contributors-11th%20Listed-c4b5fd?style=for-the-badge&labelColor=1f1b24" alt="Listed 11th in YuvaHub top contributors" />
 
@@ -207,17 +210,25 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 <div align="center">
 
-<img src="assets/oss-bars.svg" width="100%" alt="Merged pull requests by repository: 272 across 15 repositories." />
+| Repository | Merged PRs* | |
+|:--|--:|:--|
+| [MedTrack](https://github.com/kRamu81/MedTrack_Application) | **89** | `████████████████████` |
+| [CampusConnect](https://github.com/krushit1307/CampusConnect) | **30** | `███████` |
+| [paySphere](https://github.com/Dev1822/paySphere) | **26** | `██████` |
+| [eco-buddy-ai](https://github.com/neeru24/eco-buddy-ai) | **19** | `████` |
+| [semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector) | **16** | `████` |
+| [OpenPrep-AI](https://github.com/nishit546/OpenPrep-AI) | **15** | `███` |
+| [AI-Resume-Analyzer](https://github.com/Muskankr/AI-Resume-Analyzer) | **13** | `███` |
+| [YuvaHub](https://github.com/uditt490-pixel/YuvaHub) | **12** | `███` |
+| [Pollution-Control-Hub](https://github.com/Aditya8369/Pollution-Control-Hub) | **11** | `██` |
+| [devlink](https://github.com/nensii21/devlink) | **10** | `██` |
+| [MailGenie](https://github.com/Nicode2707/MailGenie) | **10** | `██` |
+| [CommitIQ](https://github.com/eshaanag/CommitIQ) | **6** | `█` |
+| [cradle](https://github.com/Facelessism/cradle) | **5** | `█` |
+| [hercycle-ai](https://github.com/khushi897920-lang/hercycle-ai) | **5** | `█` |
+| [Incredible-India-Explorer](https://github.com/Eshajha19/Incredible-India-Explorer) | **5** | `█` |
 
 </div>
-
-<details>
-<summary><b>Repository links</b></summary>
-<br/>
-
-[MedTrack](https://github.com/kRamu81/MedTrack_Application) · [CampusConnect](https://github.com/krushit1307/CampusConnect) · [paySphere](https://github.com/Dev1822/paySphere) · [eco-buddy-ai](https://github.com/neeru24/eco-buddy-ai) · [semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector) · [OpenPrep-AI](https://github.com/nishit546/OpenPrep-AI) · [AI-Resume-Analyzer](https://github.com/Muskankr/AI-Resume-Analyzer) · [YuvaHub](https://github.com/uditt490-pixel/YuvaHub) · [Pollution-Control-Hub](https://github.com/Aditya8369/Pollution-Control-Hub) · [devlink](https://github.com/nensii21/devlink) · [MailGenie](https://github.com/Nicode2707/MailGenie) · [CommitIQ](https://github.com/eshaanag/CommitIQ) · [cradle](https://github.com/Facelessism/cradle) · [hercycle-ai](https://github.com/khushi897920-lang/hercycle-ai) · [Incredible-India-Explorer](https://github.com/Eshajha19/Incredible-India-Explorer)
-
-</details>
 
 <sub>*Search-based counts of merged PRs authored by `Anubhutisharma-07`. Total: **272 merged PRs across 15 external repositories**. Not an audited all-time contribution count.</sub>
 
@@ -225,7 +236,7 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 <br/>
 
-<img src="assets/section-leetcode.svg" width="100%" alt="LeetCode" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=LeetCode&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="LeetCode" />
 
 <div align="center">
 
@@ -241,17 +252,23 @@ Steady problem-solving practice, with **Java** as my main DSA language (earlier 
 
 <br/>
 
-<img src="assets/section-achievements.svg" width="100%" alt="Achievements" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Achievements&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Achievements" />
 
 <div align="center">
 
-<img src="assets/achievements.svg" width="100%" alt="Achievements: IIIT Delhi TechFrontier first prize, NIT Durgapur Hackastra winner, Byteverse 1.0 finalist, Smart India Hackathon internal round selection, IIT Roorkee Cognizance 2026 and TCS campus ambassador, ECSOC 2026 Top 20 contributor." />
+| 🥇 First Prize | 🏆 Winner | 🎯 Finalist | 🚀 Selected |
+|:--:|:--:|:--:|:--:|
+| **IIIT Delhi**<br/>TechFrontier Hackathon | **NIT Durgapur**<br/>Hackastra | **Byteverse 1.0**<br/>Open Innovation | **Smart India Hackathon**<br/>Internal round |
+
+| 🌐 Ambassador | 🎓 Ambassador | 🏅 Top 20 |
+|:--:|:--:|:--:|
+| **IIT Roorkee**<br/>Cognizance 2026 | **TCS**<br/>Campus Ambassador | **ECSOC 2026**<br/>Open-source contributor |
 
 </div>
 
 <br/>
 
-<img src="assets/section-activity.svg" width="100%" alt="Activity" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Activity&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Activity" />
 
 <div align="center">
 
