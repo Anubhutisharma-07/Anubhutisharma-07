@@ -1,8 +1,6 @@
-<!-- PROFILE README · Anubhutisharma-07 · palette: rose #fda4af · peach #fdba74 · lavender #c4b5fd · ink #1f1b24 -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,50:fdba74,100:c4b5fd&height=250&section=header&text=Hi%2C%20I'm%20Anubhuti&fontSize=58&fontColor=3b2f3f&fontAlignY=36&desc=Java%20Backend%20Developer%20%C2%B7%20Open-Source%20Contributor&descSize=20&descColor=3b2f3f&descAlignY=58&animation=fadeIn" width="100%" alt="Hi, I'm Anubhuti" />
+<img src="assets/hero.svg" width="100%" alt="Hi, I'm Anubhuti. Java backend developer and open-source contributor." />
 
 <a href="https://github.com/Anubhutisharma-07">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FDA4AF&center=true&vCenter=true&width=700&lines=Building+calm%2C+reliable+backends+with+Spring+Boot;Backend+Intern+%40+Enginow;ECSOC+2026+Top+20+Contributor;272+merged+PRs+across+15+repositories;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -14,26 +12,11 @@
 <a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://img.shields.io/badge/LeetCode-fdba74?style=for-the-badge&logo=leetcode&logoColor=3b2f3f" alt="LeetCode" /></a>
 <a href="https://github.com/Anubhutisharma-07?tab=repositories"><img src="https://img.shields.io/badge/Repositories-c4b5fd?style=for-the-badge&logo=github&logoColor=3b2f3f" alt="Repositories" /></a>
 
-<br/><br/>
-
-<sub>
-<a href="#-about">About</a> &nbsp;·&nbsp;
-<a href="#-stack">Stack</a> &nbsp;·&nbsp;
-<a href="#-experience">Experience</a> &nbsp;·&nbsp;
-<a href="#-featured-project">Featured</a> &nbsp;·&nbsp;
-<a href="#-open-source">Open source</a> &nbsp;·&nbsp;
-<a href="#-leetcode">LeetCode</a> &nbsp;·&nbsp;
-<a href="#-wins">Wins</a> &nbsp;·&nbsp;
-<a href="#-activity">Activity</a>
-</sub>
-
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
-
-## 🌷 About
+<img src="assets/section-about.svg" width="100%" alt="About" />
 
 I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engineering, practical applications and open source. I enjoy the whole journey, from designing APIs and database schemas to building the interface on top and wiring it all together.
 
@@ -61,17 +44,15 @@ I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engin
 
 <div align="center">
 
-| 🏅 ECSOC 2026 | 🔀 Merged PRs* | 📦 Repositories* | 🔥 LeetCode |
-|:--:|:--:|:--:|:--:|
-| **Top 20** contributor | **272** | **15** external | **200 Days** badge |
+<img src="assets/stats.svg" width="100%" alt="ECSOC 2026 Top 20 contributor. 272 merged PRs. 15 external repositories. 200 Days LeetCode badge." />
 
-<sub>*Search-based figures: merged PRs authored by me in the repositories listed under <a href="#-open-source">Open source</a>. Not an audited all-time count.</sub>
+<sub>*Search-based figures: merged PRs authored by me in the repositories listed under Open source. Not an audited all-time count.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+<br/>
 
-## 🧰 Stack
+<img src="assets/section-stack.svg" width="100%" alt="Stack" />
 
 My working toolkit across projects and internship work.
 
@@ -102,9 +83,9 @@ Object-Oriented Programming · Data Structures & Algorithms · Database Manageme
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+<br/>
 
-## 💼 Experience
+<img src="assets/section-experience.svg" width="100%" alt="Experience" />
 
 <table>
 <tr>
@@ -118,9 +99,9 @@ Working in backend development and application engineering.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+<br/>
 
-## ✨ Featured project
+<img src="assets/section-featured.svg" width="100%" alt="Featured project" />
 
 <sub>Independently developed</sub>
 
@@ -155,9 +136,9 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+<br/>
 
-## 🌍 Open source
+<img src="assets/section-opensource.svg" width="100%" alt="Open source" />
 
 <sub>Contributions to other people's repositories, not projects I built on my own.</sub>
 
@@ -222,40 +203,19 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 <br/>
 
-### 📈 Most contributed repositories
+### 📈 Merged PRs by repository
 
 <div align="center">
 
-| Repository | Merged PRs* |
-|:--|--:|
-| [MedTrack](https://github.com/kRamu81/MedTrack_Application) | **89** |
-| [CampusConnect](https://github.com/krushit1307/CampusConnect) | **30** |
-| [paySphere](https://github.com/Dev1822/paySphere) | **26** |
-| [eco-buddy-ai](https://github.com/neeru24/eco-buddy-ai) | **19** |
-| [semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector) | **16** |
-| [OpenPrep-AI](https://github.com/nishit546/OpenPrep-AI) | **15** |
+<img src="assets/oss-bars.svg" width="100%" alt="Merged pull requests by repository: 272 across 15 repositories." />
 
 </div>
 
 <details>
-<summary><b>See all 15 repositories</b></summary>
+<summary><b>Repository links</b></summary>
 <br/>
 
-<div align="center">
-
-| Repository | Merged PRs* |
-|:--|--:|
-| [AI-Resume-Analyzer](https://github.com/Muskankr/AI-Resume-Analyzer) | 13 |
-| [YuvaHub](https://github.com/uditt490-pixel/YuvaHub) | 12 |
-| [Pollution-Control-Hub](https://github.com/Aditya8369/Pollution-Control-Hub) | 11 |
-| [devlink](https://github.com/nensii21/devlink) | 10 |
-| [MailGenie](https://github.com/Nicode2707/MailGenie) | 10 |
-| [CommitIQ](https://github.com/eshaanag/CommitIQ) | 6 |
-| [cradle](https://github.com/Facelessism/cradle) | 5 |
-| [hercycle-ai](https://github.com/khushi897920-lang/hercycle-ai) | 5 |
-| [Incredible-India-Explorer](https://github.com/Eshajha19/Incredible-India-Explorer) | 5 |
-
-</div>
+[MedTrack](https://github.com/kRamu81/MedTrack_Application) · [CampusConnect](https://github.com/krushit1307/CampusConnect) · [paySphere](https://github.com/Dev1822/paySphere) · [eco-buddy-ai](https://github.com/neeru24/eco-buddy-ai) · [semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector) · [OpenPrep-AI](https://github.com/nishit546/OpenPrep-AI) · [AI-Resume-Analyzer](https://github.com/Muskankr/AI-Resume-Analyzer) · [YuvaHub](https://github.com/uditt490-pixel/YuvaHub) · [Pollution-Control-Hub](https://github.com/Aditya8369/Pollution-Control-Hub) · [devlink](https://github.com/nensii21/devlink) · [MailGenie](https://github.com/Nicode2707/MailGenie) · [CommitIQ](https://github.com/eshaanag/CommitIQ) · [cradle](https://github.com/Facelessism/cradle) · [hercycle-ai](https://github.com/khushi897920-lang/hercycle-ai) · [Incredible-India-Explorer](https://github.com/Eshajha19/Incredible-India-Explorer)
 
 </details>
 
@@ -263,43 +223,35 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 **Also contributed to:** [Memori](https://github.com/Anubhutisharma-07/Memori) · [MeetOnMemory](https://github.com/Anubhutisharma-07/MeetOnMemory)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+<br/>
 
-## 🧩 LeetCode
+<img src="assets/section-leetcode.svg" width="100%" alt="LeetCode" />
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/LeetCode-200%20Days%20Badge-fdba74?style=for-the-badge&logo=leetcode&logoColor=3b2f3f&labelColor=1f1b24" alt="200 Days LeetCode Badge" />
 
-<a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&font=Baloo%20Chettan%202&ext=contest&animation=true" alt="LeetCode stats" /></a>
+<br/><br/>
 
-<a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&ext=heatmap" alt="LeetCode activity calendar" /></a>
+<a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://leetcard.jacoblin.cool/Anubhuti2086?theme=dark&ext=heatmap" alt="LeetCode stats and activity calendar" /></a>
 
 </div>
 
-Steady problem-solving practice, with **Java** as my main DSA language (earlier C++). The cards above are live, so solved counts, difficulty split and contest data come straight from LeetCode.
+Steady problem-solving practice, with **Java** as my main DSA language (earlier C++). The card above is live, so solved counts, difficulty split and the activity calendar come straight from LeetCode.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+<br/>
 
-## 🏆 Wins
+<img src="assets/section-achievements.svg" width="100%" alt="Achievements" />
 
 <div align="center">
 
-| 🥇 | 🏆 | 🎯 | 🚀 |
-|:--:|:--:|:--:|:--:|
-| **First Prize** | **Winner** | **Finalist** | **Selected** |
-| IIIT Delhi<br/>TechFrontier Hackathon | NIT Durgapur<br/>Hackastra | Byteverse 1.0 | Smart India Hackathon<br/>(internal round) |
-
-| 🌐 | 🎓 | 🏅 |
-|:--:|:--:|:--:|
-| **Campus Ambassador** | **Campus Ambassador** | **Top 20 Contributor** |
-| IIT Roorkee<br/>Cognizance 2026 | TCS | ECSOC 2026 |
+<img src="assets/achievements.svg" width="100%" alt="Achievements: IIIT Delhi TechFrontier first prize, NIT Durgapur Hackastra winner, Byteverse 1.0 finalist, Smart India Hackathon internal round selection, IIT Roorkee Cognizance 2026 and TCS campus ambassador, ECSOC 2026 Top 20 contributor." />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+<br/>
 
-## 📊 Activity
+<img src="assets/section-activity.svg" width="100%" alt="Activity" />
 
 <div align="center">
 
@@ -324,6 +276,6 @@ Steady problem-solving practice, with **Java** as my main DSA language (earlier 
 <a href="https://www.linkedin.com/in/anubhuti-sharma-93571931a/"><img src="https://img.shields.io/badge/LinkedIn-fda4af?style=for-the-badge&logo=linkedin&logoColor=3b2f3f" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://img.shields.io/badge/LeetCode-fdba74?style=for-the-badge&logo=leetcode&logoColor=3b2f3f" alt="LeetCode" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:fdba74,100:fda4af&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:fdba74,100:fda4af&height=110&section=footer" width="100%" alt="" />
 
 </div>
