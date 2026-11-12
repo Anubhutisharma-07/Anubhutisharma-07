@@ -12,13 +12,28 @@
 <a href="https://leetcode.com/u/Anubhuti2086/"><img src="https://img.shields.io/badge/LeetCode-fdba74?style=for-the-badge&logo=leetcode&logoColor=3b2f3f" alt="LeetCode" /></a>
 <a href="https://github.com/Anubhutisharma-07?tab=repositories"><img src="https://img.shields.io/badge/Repositories-c4b5fd?style=for-the-badge&logo=github&logoColor=3b2f3f" alt="Repositories" /></a>
 
+<br/><br/>
+
+<sub>
+<a href="#-about">About</a> &nbsp;·&nbsp;
+<a href="#-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#-experience">Experience</a> &nbsp;·&nbsp;
+<a href="#-featured-projects">Projects</a> &nbsp;·&nbsp;
+<a href="#-open-source">Open source</a> &nbsp;·&nbsp;
+<a href="#-leetcode">LeetCode</a> &nbsp;·&nbsp;
+<a href="#-achievements">Achievements</a> &nbsp;·&nbsp;
+<a href="#-activity">Activity</a>
+</sub>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=About&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="About" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
-I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engineering, practical applications and open source. I enjoy the whole journey, from designing APIs and database schemas to building the interface on top and wiring it all together.
+## 🌷 About
+
+I'm a Computer Science undergraduate at **JMIT, Radaur (Haryana, India)** who loves backend engineering, practical applications and open source. I enjoy the whole journey, from designing APIs and database schemas to building the interface on top and wiring it all together.
 
 <table>
 <tr>
@@ -53,9 +68,9 @@ I'm a Computer Science undergraduate at **JMIT, Radaur** who loves backend engin
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Stack&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Stack" />
+## 🧰 Stack
 
 My working toolkit across projects and internship work.
 
@@ -63,7 +78,7 @@ My working toolkit across projects and internship work.
 
 <table>
 <tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" alt="Languages" /></td></tr>
-<tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Backend" /></td></tr>
+<tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Backend" /></td></tr>
 <tr><td align="right"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend" /></td></tr>
 <tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /></td></tr>
 <tr><td align="right"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,idea,eclipse,vscode" alt="Tools" /></td></tr>
@@ -86,9 +101,9 @@ Object-Oriented Programming · Data Structures & Algorithms · Database Manageme
 
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Experience&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Experience" />
+## 💼 Experience
 
 <table>
 <tr>
@@ -102,9 +117,9 @@ Working in backend development and application engineering.
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Featured%20project&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Featured project" />
+## ✨ Featured projects
 
 <sub>Independently developed</sub>
 
@@ -131,17 +146,63 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 ![Docker](https://img.shields.io/badge/Docker%20%2B%20Compose-fda4af?style=flat-square&logo=docker&logoColor=3b2f3f)
 ![Jenkins](https://img.shields.io/badge/Jenkins-fdba74?style=flat-square&logo=jenkins&logoColor=3b2f3f)
 
-<div align="center">
-<a href="https://github.com/Anubhutisharma-07/SettleUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anubhutisharma-07&repo=SettleUp&bg_color=1f1b24&title_color=fda4af&text_color=e7dfe9&icon_color=fdba74&border_color=3a3345" alt="SettleUp repository card" /></a>
-</div>
+<a href="https://github.com/Anubhutisharma-07/SettleUp"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="SettleUp repository" /></a>
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+
+### 📝 [QuizFlow](https://github.com/Anubhutisharma-07/Quiz-Flow)
+**Full-stack online quiz management platform**
+
+Lets users register and log in, take quizzes, submit answers and view their results. Built with React.js and Spring Boot.
+
+- **Authentication and authorization** with Spring Security and JWT
+- **User management:** registration, profiles, validation and role-based user information
+- **Quiz management:** REST APIs to manage quizzes, retrieve questions and handle quiz operations
+- **Evaluation engine:** automated, case-insensitive answer matching and score calculation
+- **Attempt tracking and results:** stores attempts and submitted answers, then generates scores and percentages
+- **API documentation** with Swagger/OpenAPI
+- **Frontend integration:** React.js connected to the Spring Boot backend through REST APIs
+
+<details>
+<summary><b>Technical implementation</b></summary>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Open%20source&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Open source" />
+- Controller-Service-Repository layered backend architecture
+- RESTful endpoints built with Spring Boot
+- Spring Data JPA and Hibernate for persistence
+- MySQL entities and relationships for users, quizzes, questions and quiz attempts
+- JWT authentication protecting backend resources
+- Responsive frontend built with React.js
+
+</details>
+
+![Java](https://img.shields.io/badge/Java-fda4af?style=flat-square&logo=openjdk&logoColor=3b2f3f)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-fdba74?style=flat-square&logo=springboot&logoColor=3b2f3f)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-c4b5fd?style=flat-square&logo=springsecurity&logoColor=3b2f3f)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-fda4af?style=flat-square&logo=spring&logoColor=3b2f3f)
+![Hibernate](https://img.shields.io/badge/Hibernate-fdba74?style=flat-square&logo=hibernate&logoColor=3b2f3f)
+![MySQL](https://img.shields.io/badge/MySQL-c4b5fd?style=flat-square&logo=mysql&logoColor=3b2f3f)
+![React](https://img.shields.io/badge/React.js-fda4af?style=flat-square&logo=react&logoColor=3b2f3f)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdba74?style=flat-square&logo=javascript&logoColor=3b2f3f)
+![JWT](https://img.shields.io/badge/JWT-c4b5fd?style=flat-square&logo=jsonwebtokens&logoColor=3b2f3f)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-fda4af?style=flat-square&logo=swagger&logoColor=3b2f3f)
+
+<a href="https://quiz-flow-beige.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-fdba74?style=for-the-badge&logo=vercel&logoColor=3b2f3f" alt="QuizFlow live demo" /></a>
+<a href="https://github.com/Anubhutisharma-07/Quiz-Flow"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="QuizFlow repository" /></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
+
+## 🌍 Open source
 
 <sub>Contributions to other people's repositories, not projects I built on my own.</sub>
 
@@ -234,9 +295,9 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 **Also contributed to:** [Memori](https://github.com/Anubhutisharma-07/Memori) · [MeetOnMemory](https://github.com/Anubhutisharma-07/MeetOnMemory)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=LeetCode&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="LeetCode" />
+## 🧩 LeetCode
 
 <div align="center">
 
@@ -250,9 +311,9 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 Steady problem-solving practice, with **Java** as my main DSA language (earlier C++). The card above is live, so solved counts, difficulty split and the activity calendar come straight from LeetCode.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Achievements&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Achievements" />
+## 🏆 Achievements
 
 <div align="center">
 
@@ -260,15 +321,15 @@ Steady problem-solving practice, with **Java** as my main DSA language (earlier 
 |:--:|:--:|:--:|:--:|
 | **IIIT Delhi**<br/>TechFrontier Hackathon | **NIT Durgapur**<br/>Hackastra | **Byteverse 1.0**<br/>Open Innovation | **Smart India Hackathon**<br/>Internal round |
 
-| 🌐 Ambassador | 🎓 Ambassador | 🏅 Top 20 |
-|:--:|:--:|:--:|
-| **IIT Roorkee**<br/>Cognizance 2026 | **TCS**<br/>Campus Ambassador | **ECSOC 2026**<br/>Open-source contributor |
+| 🌐 Ambassador | 🏅 Top 20 |
+|:--:|:--:|
+| **IIT Roorkee**<br/>Cognizance 2026 | **ECSOC 2026**<br/>Open-source contributor |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fda4af,50:fdba74,100:c4b5fd&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fda4af,50:fdba74,100:c4b5fd&height=64&section=header&text=Activity&fontSize=28&fontColor=3b2f3f&fontAlign=12&fontAlignY=52" width="100%" alt="Activity" />
+## 📊 Activity
 
 <div align="center">
 
