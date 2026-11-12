@@ -139,12 +139,21 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 
 ![Java](https://img.shields.io/badge/Java%2021-fda4af?style=flat-square&logo=openjdk&logoColor=3b2f3f)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%204-fdba74?style=flat-square&logo=springboot&logoColor=3b2f3f)
-![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-c4b5fd?style=flat-square&logo=spring&logoColor=3b2f3f)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-fda4af?style=flat-square&logo=postgresql&logoColor=3b2f3f)
-![React](https://img.shields.io/badge/React-fdba74?style=flat-square&logo=react&logoColor=3b2f3f)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-c4b5fd?style=flat-square&logo=tailwindcss&logoColor=3b2f3f)
-![Docker](https://img.shields.io/badge/Docker%20%2B%20Compose-fda4af?style=flat-square&logo=docker&logoColor=3b2f3f)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-c4b5fd?style=flat-square&logo=springsecurity&logoColor=3b2f3f)
+![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-fda4af?style=flat-square&logo=spring&logoColor=3b2f3f)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-fdba74?style=flat-square&logo=postgresql&logoColor=3b2f3f)
+![React](https://img.shields.io/badge/React.js-c4b5fd?style=flat-square&logo=react&logoColor=3b2f3f)
+![JavaScript](https://img.shields.io/badge/JavaScript-fda4af?style=flat-square&logo=javascript&logoColor=3b2f3f)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-fdba74?style=flat-square&logo=tailwindcss&logoColor=3b2f3f)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-c4b5fd?style=flat-square&logoColor=3b2f3f)
+![JWT](https://img.shields.io/badge/JWT%20Authentication-fda4af?style=flat-square&logo=jsonwebtokens&logoColor=3b2f3f)
+![Maven](https://img.shields.io/badge/Maven-fdba74?style=flat-square&logo=apachemaven&logoColor=3b2f3f)
+![Docker](https://img.shields.io/badge/Docker-c4b5fd?style=flat-square&logo=docker&logoColor=3b2f3f)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-fda4af?style=flat-square&logo=docker&logoColor=3b2f3f)
 ![Jenkins](https://img.shields.io/badge/Jenkins-fdba74?style=flat-square&logo=jenkins&logoColor=3b2f3f)
+![Nginx](https://img.shields.io/badge/Nginx-c4b5fd?style=flat-square&logo=nginx&logoColor=3b2f3f)
+![Git](https://img.shields.io/badge/Git-fda4af?style=flat-square&logo=git&logoColor=3b2f3f)
+![GitHub](https://img.shields.io/badge/GitHub-fdba74?style=flat-square&logo=github&logoColor=3b2f3f)
 
 <a href="https://settle-up-henna-seven.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-fdba74?style=for-the-badge&logo=vercel&logoColor=3b2f3f" alt="SettleUp live demo" /></a>
 <a href="https://github.com/Anubhutisharma-07/SettleUp"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="SettleUp repository" /></a>
