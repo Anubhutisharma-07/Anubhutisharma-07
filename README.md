@@ -146,6 +146,7 @@ Tracks shared expenses, calculates individual balances and **minimizes the numbe
 ![Docker](https://img.shields.io/badge/Docker%20%2B%20Compose-fda4af?style=flat-square&logo=docker&logoColor=3b2f3f)
 ![Jenkins](https://img.shields.io/badge/Jenkins-fdba74?style=flat-square&logo=jenkins&logoColor=3b2f3f)
 
+<a href="https://settle-up-henna-seven.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-fdba74?style=for-the-badge&logo=vercel&logoColor=3b2f3f" alt="SettleUp live demo" /></a>
 <a href="https://github.com/Anubhutisharma-07/SettleUp"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="SettleUp repository" /></a>
 
 </td>
